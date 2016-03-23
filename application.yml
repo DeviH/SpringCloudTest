@@ -1,0 +1,14 @@
+myapp:
+  who: GitHub configuration repository!!!!!
+  password: letmein01
+
+hello:
+  message: Hello Userrrrrr!
+
+
+---
+spring:
+  profiles: cloud
+
+foo:
+  bar: Profile test
