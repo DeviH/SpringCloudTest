@@ -10,5 +10,5 @@ hello:
 spring:
   profiles: cloud
 
-foo:
-  bar: Profile test
+hello:
+  message: Cloud test
