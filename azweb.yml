@@ -5,5 +5,7 @@ myapp:
 hello:
   message: reloaded application user, how are youuuuuu!
   
-  
+enable:
+	featureName true
+
   
